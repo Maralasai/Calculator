@@ -1,0 +1,13 @@
+button{
+  padding:10px;
+  margin:4px;
+  color:black;
+}
+input[type="text"] {
+  padding:10px;
+  margin: 5px;
+  border-radius: 3px;
+  color:#010812;
+  background: rgb(224, 233, 232);
+}
+body{background-color: rgb(201,76,76,0.3);}
